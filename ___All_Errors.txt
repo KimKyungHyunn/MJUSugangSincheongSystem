@@ -1,0 +1,5 @@
+CorrelationId: 7ca0d747-3e31-4c43-945b-1d2a2ac7d0c7
+UTC DateTime: 2021-07-12 ?? 3:18:44
+
+The following file/folder has not been downloaded
+1. MJUSugangSincheongSystem
